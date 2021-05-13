@@ -1,0 +1,17 @@
+.parents{
+    display: flex;
+
+}
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 5px;
+}
+.hide {
+   
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    margin: 5px;
+}
